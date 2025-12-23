@@ -1,3 +1,4 @@
+
 module.exports = {
     botName: "XdpzQ-AI",
     ownerId: "7341190291", 
